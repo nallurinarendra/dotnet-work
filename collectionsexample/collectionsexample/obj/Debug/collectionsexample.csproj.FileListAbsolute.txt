@@ -1,0 +1,6 @@
+C:\Users\nani\Desktop\dot net\collectionsexample\collectionsexample\bin\Debug\collectionsexample.exe.config
+C:\Users\nani\Desktop\dot net\collectionsexample\collectionsexample\bin\Debug\collectionsexample.exe
+C:\Users\nani\Desktop\dot net\collectionsexample\collectionsexample\bin\Debug\collectionsexample.pdb
+C:\Users\nani\Desktop\dot net\collectionsexample\collectionsexample\obj\Debug\collectionsexample.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\collectionsexample\collectionsexample\obj\Debug\collectionsexample.exe
+C:\Users\nani\Desktop\dot net\collectionsexample\collectionsexample\obj\Debug\collectionsexample.pdb

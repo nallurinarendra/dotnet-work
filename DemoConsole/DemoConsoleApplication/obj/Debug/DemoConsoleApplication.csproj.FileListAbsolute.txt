@@ -1,0 +1,8 @@
+C:\Users\nani\Desktop\varun\DemoConsole\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.exe.config
+C:\Users\nani\Desktop\varun\DemoConsole\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.exe
+C:\Users\nani\Desktop\varun\DemoConsole\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.pdb
+C:\Users\nani\Desktop\varun\DemoConsole\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\varun\DemoConsole\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.exe
+C:\Users\nani\Desktop\varun\DemoConsole\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.pdb
+C:\Users\nani\Desktop\varun\DemoConsole\DemoConsoleApplication\bin\Debug\MathLibrary.dll
+C:\Users\nani\Desktop\varun\DemoConsole\DemoConsoleApplication\bin\Debug\MathLibrary.pdb

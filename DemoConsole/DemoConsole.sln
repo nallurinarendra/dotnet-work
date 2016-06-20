@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsoleApplication", "DemoConsoleApplication\DemoConsoleApplication.csproj", "{AED684B7-A3D0-4C60-B973-4F758A878C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{7CC78369-4E31-455E-8631-799B279360D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED684B7-A3D0-4C60-B973-4F758A878C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED684B7-A3D0-4C60-B973-4F758A878C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED684B7-A3D0-4C60-B973-4F758A878C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED684B7-A3D0-4C60-B973-4F758A878C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC78369-4E31-455E-8631-799B279360D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC78369-4E31-455E-8631-799B279360D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC78369-4E31-455E-8631-799B279360D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC78369-4E31-455E-8631-799B279360D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

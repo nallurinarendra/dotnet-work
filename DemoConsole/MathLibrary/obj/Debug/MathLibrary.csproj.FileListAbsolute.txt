@@ -1,0 +1,4 @@
+C:\Users\nani\Desktop\varun\DemoConsole\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\nani\Desktop\varun\DemoConsole\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\nani\Desktop\varun\DemoConsole\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\nani\Desktop\varun\DemoConsole\MathLibrary\obj\Debug\MathLibrary.pdb

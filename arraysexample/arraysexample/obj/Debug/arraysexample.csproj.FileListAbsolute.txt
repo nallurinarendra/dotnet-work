@@ -1,0 +1,6 @@
+C:\Users\nani\Desktop\dot net\arraysexample\arraysexample\bin\Debug\arraysexample.exe.config
+C:\Users\nani\Desktop\dot net\arraysexample\arraysexample\bin\Debug\arraysexample.exe
+C:\Users\nani\Desktop\dot net\arraysexample\arraysexample\bin\Debug\arraysexample.pdb
+C:\Users\nani\Desktop\dot net\arraysexample\arraysexample\obj\Debug\arraysexample.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\arraysexample\arraysexample\obj\Debug\arraysexample.exe
+C:\Users\nani\Desktop\dot net\arraysexample\arraysexample\obj\Debug\arraysexample.pdb

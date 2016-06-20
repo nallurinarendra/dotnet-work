@@ -1,0 +1,6 @@
+C:\Users\nani\Desktop\dot net\methods\methods\bin\Debug\methods.exe.config
+C:\Users\nani\Desktop\dot net\methods\methods\bin\Debug\methods.exe
+C:\Users\nani\Desktop\dot net\methods\methods\bin\Debug\methods.pdb
+C:\Users\nani\Desktop\dot net\methods\methods\obj\Debug\methods.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\methods\methods\obj\Debug\methods.exe
+C:\Users\nani\Desktop\dot net\methods\methods\obj\Debug\methods.pdb
