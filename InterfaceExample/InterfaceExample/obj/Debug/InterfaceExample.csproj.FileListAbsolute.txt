@@ -4,3 +4,6 @@ C:\Users\nani\Desktop\dot net\InterfaceExample\InterfaceExample\bin\Debug\Interf
 C:\Users\nani\Desktop\dot net\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csprojResolveAssemblyReference.cache
 C:\Users\nani\Desktop\dot net\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
 C:\Users\nani\Desktop\dot net\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb
+C:\Users\nani\Desktop\dotnet work\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\Users\nani\Desktop\dotnet work\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\Users\nani\Desktop\dotnet work\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb
