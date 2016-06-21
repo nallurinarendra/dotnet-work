@@ -1,0 +1,9 @@
+C:\Users\nani\Desktop\dot net\constructorexample\constructorexample\bin\Debug\constructorexample.exe.config
+C:\Users\nani\Desktop\dot net\constructorexample\constructorexample\obj\Debug\constructorexample.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\constructorexample\constructorexample\bin\Debug\constructorexample.exe
+C:\Users\nani\Desktop\dot net\constructorexample\constructorexample\bin\Debug\constructorexample.pdb
+C:\Users\nani\Desktop\dot net\constructorexample\constructorexample\obj\Debug\constructorexample.exe
+C:\Users\nani\Desktop\dot net\constructorexample\constructorexample\obj\Debug\constructorexample.pdb
+C:\Users\nani\Desktop\dotnet work\constructorexample\constructorexample\bin\Debug\constructorexample.exe.config
+C:\Users\nani\Desktop\dotnet work\constructorexample\constructorexample\obj\Debug\constructorexample.exe
+C:\Users\nani\Desktop\dotnet work\constructorexample\constructorexample\obj\Debug\constructorexample.pdb
