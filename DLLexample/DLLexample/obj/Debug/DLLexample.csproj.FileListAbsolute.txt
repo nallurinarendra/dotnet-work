@@ -1,0 +1,8 @@
+C:\Users\nani\Desktop\dot net\DLLexample\DLLexample\bin\Debug\DLLexample.exe.config
+C:\Users\nani\Desktop\dot net\DLLexample\DLLexample\bin\Debug\DLLexample.exe
+C:\Users\nani\Desktop\dot net\DLLexample\DLLexample\bin\Debug\DLLexample.pdb
+C:\Users\nani\Desktop\dot net\DLLexample\DLLexample\bin\Debug\MathFunctionLibrary.dll
+C:\Users\nani\Desktop\dot net\DLLexample\DLLexample\bin\Debug\MathFunctionLibrary.pdb
+C:\Users\nani\Desktop\dot net\DLLexample\DLLexample\obj\Debug\DLLexample.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\DLLexample\DLLexample\obj\Debug\DLLexample.exe
+C:\Users\nani\Desktop\dot net\DLLexample\DLLexample\obj\Debug\DLLexample.pdb

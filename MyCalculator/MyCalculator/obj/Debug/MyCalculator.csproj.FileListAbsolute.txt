@@ -1,0 +1,9 @@
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\nani\Desktop\dot net\MyCalculator\MyCalculator\obj\Debug\MyCalculator.MyCalculato.resources

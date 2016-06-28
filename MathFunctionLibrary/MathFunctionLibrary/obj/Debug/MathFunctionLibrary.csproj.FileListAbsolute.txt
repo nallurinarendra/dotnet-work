@@ -1,0 +1,5 @@
+C:\Users\nani\Desktop\dot net\MathFunctionLibrary\MathFunctionLibrary\bin\Debug\MathFunctionLibrary.dll
+C:\Users\nani\Desktop\dot net\MathFunctionLibrary\MathFunctionLibrary\bin\Debug\MathFunctionLibrary.pdb
+C:\Users\nani\Desktop\dot net\MathFunctionLibrary\MathFunctionLibrary\obj\Debug\MathFunctionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\MathFunctionLibrary\MathFunctionLibrary\obj\Debug\MathFunctionLibrary.dll
+C:\Users\nani\Desktop\dot net\MathFunctionLibrary\MathFunctionLibrary\obj\Debug\MathFunctionLibrary.pdb
