@@ -1,0 +1,9 @@
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\bin\Debug\MouseEventsExample.exe.config
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\bin\Debug\MouseEventsExample.exe
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\bin\Debug\MouseEventsExample.pdb
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\obj\Debug\MouseEventsExample.csprojResolveAssemblyReference.cache
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\obj\Debug\MouseEventsExample.Form1.resources
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\obj\Debug\MouseEventsExample.Properties.Resources.resources
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\obj\Debug\MouseEventsExample.csproj.GenerateResource.Cache
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\obj\Debug\MouseEventsExample.exe
+C:\Users\BABU\Desktop\MouseEventsExample\MouseEventsExample\obj\Debug\MouseEventsExample.pdb

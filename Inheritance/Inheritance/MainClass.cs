@@ -12,6 +12,7 @@ namespace InheritanceExample
         public static void Main()
         {
 
+
             // getting the details for the grad student
             GradStudent obj = new GradStudent();
             obj.GetDetails();

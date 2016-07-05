@@ -1,0 +1,9 @@
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\bin\Debug\DialogControlsExample.exe.config
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\bin\Debug\DialogControlsExample.exe
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\bin\Debug\DialogControlsExample.pdb
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\obj\Debug\DialogControlsExample.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\obj\Debug\DialogControlsExample.Form1.resources
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\obj\Debug\DialogControlsExample.Properties.Resources.resources
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\obj\Debug\DialogControlsExample.csproj.GenerateResource.Cache
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\obj\Debug\DialogControlsExample.exe
+C:\Users\NAIDU\Desktop\DialogControlsExample\DialogControlsExample\obj\Debug\DialogControlsExample.pdb

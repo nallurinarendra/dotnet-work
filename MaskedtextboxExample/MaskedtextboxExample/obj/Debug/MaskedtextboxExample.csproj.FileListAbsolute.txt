@@ -1,0 +1,20 @@
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\bin\Debug\MaskedtextboxExample.exe.config
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\bin\Debug\MaskedtextboxExample.exe
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\bin\Debug\MaskedtextboxExample.pdb
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.csprojResolveAssemblyReference.cache
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.Form1.resources
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.Properties.Resources.resources
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.csproj.GenerateResource.Cache
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.exe
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.pdb
+C:\Users\thota\Desktop\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.Form2.resources
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\bin\Debug\MaskedtextboxExample.exe.config
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.exe
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.pdb
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\bin\Debug\MaskedtextboxExample.exe
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\bin\Debug\MaskedtextboxExample.pdb
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.csprojResolveAssemblyReference.cache
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.Form1.resources
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.Form2.resources
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.Properties.Resources.resources
+D:\DotNet\3.Windows Application\Examples\MaskedtextboxExample\MaskedtextboxExample\obj\Debug\MaskedtextboxExample.csproj.GenerateResource.Cache

@@ -4,3 +4,9 @@ C:\Users\nani\Desktop\dot net\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
 C:\Users\nani\Desktop\dot net\Inheritance\Inheritance\obj\Debug\InheritanceExample.csprojResolveAssemblyReference.cache
 C:\Users\nani\Desktop\dot net\Inheritance\Inheritance\obj\Debug\Inheritance.exe
 C:\Users\nani\Desktop\dot net\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\nani\Desktop\dotnet work\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\nani\Desktop\dotnet work\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\nani\Desktop\dotnet work\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\nani\Desktop\dotnet work\Inheritance\Inheritance\obj\Debug\InheritanceExample.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dotnet work\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\nani\Desktop\dotnet work\Inheritance\Inheritance\bin\Debug\Inheritance.pdb

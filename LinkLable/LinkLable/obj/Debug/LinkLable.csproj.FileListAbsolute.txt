@@ -1,0 +1,11 @@
+C:\Users\thota\Desktop\LinkLable\LinkLable\bin\Debug\LinkLable.exe.config
+C:\Users\thota\Desktop\LinkLable\LinkLable\bin\Debug\LinkLable.exe
+C:\Users\thota\Desktop\LinkLable\LinkLable\bin\Debug\LinkLable.pdb
+C:\Users\thota\Desktop\LinkLable\LinkLable\obj\Debug\LinkLable.AboutUs.resources
+C:\Users\thota\Desktop\LinkLable\LinkLable\obj\Debug\LinkLable.ContactUs.resources
+C:\Users\thota\Desktop\LinkLable\LinkLable\obj\Debug\LinkLable.Form1.resources
+C:\Users\thota\Desktop\LinkLable\LinkLable\obj\Debug\LinkLable.Home.resources
+C:\Users\thota\Desktop\LinkLable\LinkLable\obj\Debug\LinkLable.Properties.Resources.resources
+C:\Users\thota\Desktop\LinkLable\LinkLable\obj\Debug\LinkLable.csproj.GenerateResource.Cache
+C:\Users\thota\Desktop\LinkLable\LinkLable\obj\Debug\LinkLable.exe
+C:\Users\thota\Desktop\LinkLable\LinkLable\obj\Debug\LinkLable.pdb
