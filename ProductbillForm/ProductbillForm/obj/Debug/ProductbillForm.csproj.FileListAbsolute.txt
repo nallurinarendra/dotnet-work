@@ -1,0 +1,9 @@
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\bin\Debug\ProductbillForm.exe.config
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\bin\Debug\ProductbillForm.exe
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\bin\Debug\ProductbillForm.pdb
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\obj\Debug\ProductbillForm.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\obj\Debug\ProductbillForm.Form1.resources
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\obj\Debug\ProductbillForm.Properties.Resources.resources
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\obj\Debug\ProductbillForm.csproj.GenerateResource.Cache
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\obj\Debug\ProductbillForm.exe
+C:\Users\nani\Desktop\dot net\ProductbillForm\ProductbillForm\obj\Debug\ProductbillForm.pdb

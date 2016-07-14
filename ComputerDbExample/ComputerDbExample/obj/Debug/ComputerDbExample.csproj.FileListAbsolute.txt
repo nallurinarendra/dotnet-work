@@ -1,0 +1,9 @@
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\bin\Debug\ComputerDbExample.exe.config
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\bin\Debug\ComputerDbExample.exe
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\bin\Debug\ComputerDbExample.pdb
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\obj\Debug\ComputerDbExample.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\obj\Debug\ComputerDbExample.Form1.resources
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\obj\Debug\ComputerDbExample.Properties.Resources.resources
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\obj\Debug\ComputerDbExample.csproj.GenerateResource.Cache
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\obj\Debug\ComputerDbExample.exe
+C:\Users\nani\Desktop\dot net\ComputerDbExample\ComputerDbExample\obj\Debug\ComputerDbExample.pdb

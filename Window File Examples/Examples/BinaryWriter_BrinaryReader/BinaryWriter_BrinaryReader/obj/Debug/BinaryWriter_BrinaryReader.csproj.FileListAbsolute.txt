@@ -1,0 +1,24 @@
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\bin\Debug\BinaryWriter_BrinaryReader.exe.config
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\bin\Debug\BinaryWriter_BrinaryReader.exe
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\bin\Debug\BinaryWriter_BrinaryReader.pdb
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.csprojResolveAssemblyReference.cache
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.Form1.resources
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.Properties.Resources.resources
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.csproj.GenerateResource.Cache
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.exe
+C:\Users\MAHESH\Desktop\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.pdb
+D:\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\bin\Debug\BinaryWriter_BrinaryReader.exe.config
+D:\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.exe
+D:\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.pdb
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\bin\Debug\BinaryWriter_BrinaryReader.exe.config
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.exe
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.pdb
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\bin\Debug\BinaryWriter_BrinaryReader.exe
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\bin\Debug\BinaryWriter_BrinaryReader.pdb
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.csprojResolveAssemblyReference.cache
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.Form1.resources
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.Properties.Resources.resources
+D:\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.csproj.GenerateResource.Cache
+D:\Final\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\bin\Debug\BinaryWriter_BrinaryReader.exe.config
+D:\Final\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.exe
+D:\Final\USA\DotNet\3.Windows Application\Examples\BinaryWriter_BrinaryReader\BinaryWriter_BrinaryReader\obj\Debug\BinaryWriter_BrinaryReader.pdb

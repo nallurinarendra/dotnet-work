@@ -1,0 +1,11 @@
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\bin\Debug\productApplicationproject.exe.config
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\obj\Debug\productApplicationproject.MenuForm.resources
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\obj\Debug\productApplicationproject.Properties.Resources.resources
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\obj\Debug\productApplicationproject.csproj.GenerateResource.Cache
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\bin\Debug\productApplicationproject.exe
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\bin\Debug\productApplicationproject.pdb
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\obj\Debug\productApplicationproject.exe
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\obj\Debug\productApplicationproject.pdb
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\obj\Debug\productApplicationproject.AddProduct.resources
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\obj\Debug\productApplicationproject.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\productApplicationproject\productApplicationproject\obj\Debug\productApplicationproject.UpdateProduct.resources

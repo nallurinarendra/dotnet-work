@@ -1,0 +1,12 @@
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\bin\Debug\Menus_And_Toolbars_Example.exe.config
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\bin\Debug\Menus_And_Toolbars_Example.exe
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\bin\Debug\Menus_And_Toolbars_Example.pdb
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.csprojResolveAssemblyReference.cache
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.Abouts.resources
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.ContactUS.resources
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.Form1.resources
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.Properties.Resources.resources
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.csproj.GenerateResource.Cache
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.exe
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.pdb
+C:\Users\thota\Desktop\Menus_And_Toolbars_Example\Menus_And_Toolbars_Example\obj\Debug\Menus_And_Toolbars_Example.NotepadMenu.resources

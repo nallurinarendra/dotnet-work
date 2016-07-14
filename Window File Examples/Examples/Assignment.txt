@@ -1,0 +1,5 @@
+1) Create notepad file with username and password data using comma(,)Operator
+
+2) Create Login form and check username and password using above notepad is it correct open another form and that form maintain the datagridview display the username and password
+
+

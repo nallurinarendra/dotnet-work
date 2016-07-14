@@ -1,0 +1,9 @@
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\bin\Debug\KeyPressEventsExaple.exe.config
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\bin\Debug\KeyPressEventsExaple.exe
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\bin\Debug\KeyPressEventsExaple.pdb
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\obj\Debug\KeyPressEventsExaple.csprojResolveAssemblyReference.cache
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\obj\Debug\KeyPressEventsExaple.Form1.resources
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\obj\Debug\KeyPressEventsExaple.Properties.Resources.resources
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\obj\Debug\KeyPressEventsExaple.csproj.GenerateResource.Cache
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\obj\Debug\KeyPressEventsExaple.exe
+C:\Users\BABU\Desktop\KeyPressEventsExaple\KeyPressEventsExaple\obj\Debug\KeyPressEventsExaple.pdb

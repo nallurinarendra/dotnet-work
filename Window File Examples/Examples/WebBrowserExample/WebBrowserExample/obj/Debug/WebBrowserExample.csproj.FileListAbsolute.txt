@@ -1,0 +1,9 @@
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\bin\Debug\WebBrowserExample.exe.config
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\bin\Debug\WebBrowserExample.exe
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\bin\Debug\WebBrowserExample.pdb
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.csprojResolveAssemblyReference.cache
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.Form1.resources
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.Properties.Resources.resources
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.csproj.GenerateResource.Cache
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.exe
+C:\Users\thota\Desktop\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.pdb

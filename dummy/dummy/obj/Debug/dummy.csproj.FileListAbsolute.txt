@@ -1,0 +1,6 @@
+C:\Users\nani\Desktop\dot net\dummy\dummy\bin\Debug\dummy.exe.config
+C:\Users\nani\Desktop\dot net\dummy\dummy\bin\Debug\dummy.exe
+C:\Users\nani\Desktop\dot net\dummy\dummy\bin\Debug\dummy.pdb
+C:\Users\nani\Desktop\dot net\dummy\dummy\obj\Debug\dummy.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\dummy\dummy\obj\Debug\dummy.exe
+C:\Users\nani\Desktop\dot net\dummy\dummy\obj\Debug\dummy.pdb
