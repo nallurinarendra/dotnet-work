@@ -1,0 +1,9 @@
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\bin\Debug\ProductStoreProcedureExample.exe.config
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\bin\Debug\ProductStoreProcedureExample.exe
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\bin\Debug\ProductStoreProcedureExample.pdb
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\obj\Debug\ProductStoreProcedureExample.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\obj\Debug\ProductStoreProcedureExample.Form1.resources
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\obj\Debug\ProductStoreProcedureExample.Properties.Resources.resources
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\obj\Debug\ProductStoreProcedureExample.csproj.GenerateResource.Cache
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\obj\Debug\ProductStoreProcedureExample.exe
+C:\Users\NAIDU\Desktop\ProductStoreProcedureExample\ProductStoreProcedureExample\obj\Debug\ProductStoreProcedureExample.pdb

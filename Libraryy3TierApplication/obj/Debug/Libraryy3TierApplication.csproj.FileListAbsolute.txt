@@ -1,0 +1,18 @@
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\bin\Debug\Libraryy3TierApplication.exe.config
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\bin\Debug\Libraryy3TierApplication.exe
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\bin\Debug\Libraryy3TierApplication.pdb
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.Form1.resources
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.Properties.Resources.resources
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.csproj.GenerateResource.Cache
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.exe
+C:\Users\NAIDU\Desktop\Libraryy3TierApplication\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.pdb
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\bin\Debug\Libraryy3TierApplication.exe.config
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.exe
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.pdb
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\bin\Debug\Libraryy3TierApplication.exe
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\bin\Debug\Libraryy3TierApplication.pdb
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.Form1.resources
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.Properties.Resources.resources
+C:\Users\nani\Desktop\dot net\class 20\Libraryy3TierApplication\obj\Debug\Libraryy3TierApplication.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\bin\Debug\comboBoxDataBase.exe.config
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\bin\Debug\comboBoxDataBase.exe
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\bin\Debug\comboBoxDataBase.pdb
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\obj\Debug\comboBoxDataBase.csprojResolveAssemblyReference.cache
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\obj\Debug\comboBoxDataBase.Form1.resources
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\obj\Debug\comboBoxDataBase.Properties.Resources.resources
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\obj\Debug\comboBoxDataBase.csproj.GenerateResource.Cache
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\obj\Debug\comboBoxDataBase.exe
+C:\Users\nani\Desktop\dot net\comboBoxDataBase\comboBoxDataBase\obj\Debug\comboBoxDataBase.pdb

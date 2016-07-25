@@ -1,0 +1,16 @@
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\bin\Debug\ProductApplicationProject.exe.config
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.Properties.Resources.resources
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.csproj.GenerateResource.Cache
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\bin\Debug\ProductApplicationProject.exe
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\bin\Debug\ProductApplicationProject.pdb
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.MenuForm.resources
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.Product_Add_Form1cs.resources
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.Product_Delete_Form.resources
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.Product_Details_Form.resources
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.Product_Update_Form.resources
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.exe
+C:\Users\NAIDU\Desktop\ProductApplicationProject\ProductApplicationProject\obj\Debug\ProductApplicationProject.pdb
+C:\Users\nani\Desktop\dot net\class 18\ProductApplicationProject\bin\Debug\ProductApplicationProject.exe.config
+C:\Users\nani\Desktop\dot net\class 18\ProductApplicationProject\obj\Debug\ProductApplicationProject.exe
+C:\Users\nani\Desktop\dot net\class 18\ProductApplicationProject\obj\Debug\ProductApplicationProject.pdb

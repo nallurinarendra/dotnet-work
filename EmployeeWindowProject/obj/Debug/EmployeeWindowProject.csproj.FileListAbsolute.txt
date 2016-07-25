@@ -1,0 +1,9 @@
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\bin\Debug\EmployeeWindowProject.exe.config
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\bin\Debug\EmployeeWindowProject.exe
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\bin\Debug\EmployeeWindowProject.pdb
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\obj\Debug\EmployeeWindowProject.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\obj\Debug\EmployeeWindowProject.Form1.resources
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\obj\Debug\EmployeeWindowProject.Properties.Resources.resources
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\obj\Debug\EmployeeWindowProject.csproj.GenerateResource.Cache
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\obj\Debug\EmployeeWindowProject.exe
+C:\Users\NAIDU\Desktop\EmployeeWindowProject\EmployeeWindowProject\obj\Debug\EmployeeWindowProject.pdb
