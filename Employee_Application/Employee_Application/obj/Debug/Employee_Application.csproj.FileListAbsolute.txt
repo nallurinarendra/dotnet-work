@@ -1,0 +1,9 @@
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\bin\Debug\Employee_Application.exe.config
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\bin\Debug\Employee_Application.exe
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\bin\Debug\Employee_Application.pdb
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\obj\Debug\Employee_Application.csprojResolveAssemblyReference.cache
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\obj\Debug\Employee_Application.Form1.resources
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\obj\Debug\Employee_Application.Properties.Resources.resources
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\obj\Debug\Employee_Application.csproj.GenerateResource.Cache
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\obj\Debug\Employee_Application.exe
+C:\Users\MAHESH\Desktop\Employee_Application\Employee_Application\obj\Debug\Employee_Application.pdb

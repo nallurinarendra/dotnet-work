@@ -1,0 +1,13 @@
+﻿
+<h1>
+    Temp Data Students List...
+</h1>
+
+<ul>
+    @foreach (var students in TempData["Student"] as List<string>)
+    {
+        <li>
+            @students.ToUpper()
+        </li>
+    }
+</ul>

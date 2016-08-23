@@ -1,0 +1,25 @@
+﻿@model Library_MVC_Project.Models.LoginModel
+
+@using(Html.BeginForm("Index","Login"))
+{
+    <h1> Login </h1>
+    
+    <h4> User Name  : </h4>
+    @Html.TextBoxFor(a => a.username)
+    @Html.ValidationMessageFor(m => m.username)
+
+    <h4> Password : </h4>    
+    @Html.PasswordFor(b=>b.password)
+    @Html.ValidationMessageFor(m => m.password)
+    
+    <br />
+    <br />
+    
+    <input id="Submit1" type="submit" value="Login" />
+}
+
+@ViewBag.insertresult
+
+
+
+

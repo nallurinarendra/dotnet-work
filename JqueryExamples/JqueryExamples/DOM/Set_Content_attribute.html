@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../JS/jquery-2.1.4.min.js"></script>
+
+    <script>
+    $(document).ready(function () {
+        $("#btn1").click(function () {
+            $("#test1").text("Hello world!");
+        });
+        $("#btn2").click(function () {
+            $("#test2").html("<b>Hello world!</b>");
+        });
+        $("#btn3").click(function () {
+            $("#test3").val("Saibersys");
+        });
+    });
+    </script>
+
+</head>
+<body>
+    <p id="test1">This is a paragraph.</p>
+    <p id="test2">This is another paragraph.</p>
+    <p>
+        Input field:
+        <input type="text" id="test3" value="Amensys">
+    </p>
+    <button id="btn1">Set Text</button>
+    <button id="btn2">Set HTML</button>
+    <button id="btn3">Set Value</button>
+</body>
+</html>

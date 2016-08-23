@@ -1,0 +1,12 @@
+﻿<h1>
+    View Bag Students List...
+</h1>
+
+<ul>
+    @foreach (var students in ViewBag.StudentsList)
+    {
+        <li>
+            @students.ToUpper()
+        </li>
+    }
+</ul>

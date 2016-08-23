@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Library_MVC_Project.BookTable>
+
+@{
+    ViewBag.Title = "display";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>display</h2>
+
+<p>
+    @Html.ActionLink("Add New Book", "Insert")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BookName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AuthorName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RackNumber)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BookName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AuthorName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RackNumber)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Update", new { id=item.Id })           
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

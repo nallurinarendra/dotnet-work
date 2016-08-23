@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../JS/jquery-2.1.4.min.js"></script>
+
+    <script>
+    $(document).ready(function () {
+        $("button").click(function () {
+            alert("Value: " + $("#test").val());
+        });
+    });
+    </script>
+
+</head>
+<body>
+    <p>
+        Name:
+        <input type="text" id="test">
+    </p>
+    <button>Show Value</button>
+</body>
+</html>

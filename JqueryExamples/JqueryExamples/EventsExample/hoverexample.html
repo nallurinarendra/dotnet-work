@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../JS/jquery-2.1.4.min.js"></script>
+    <script>
+    $(document).ready(function () {
+        $("#p1").hover(function () {
+            alert("You entered p1!");
+        },
+        function () {
+            alert("Bye! You now leave p1!");
+        });
+    });
+    </script>
+</head>
+<body>
+    <p id="p1">
+        The hover() method takes two functions and is a combination of the
+        mouseenter() and mouseleave() methods.
+        The first function is executed when the mouse enters the HTML element, and the
+        second function is executed when the mouse leaves the HTML element:
+    </p>
+
+
+</body>
+</html>

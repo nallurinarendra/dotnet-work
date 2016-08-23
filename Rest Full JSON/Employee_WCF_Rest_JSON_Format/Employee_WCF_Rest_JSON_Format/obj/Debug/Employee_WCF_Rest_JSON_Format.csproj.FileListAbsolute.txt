@@ -1,0 +1,20 @@
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\obj\Debug\Employee_WCF_Rest_JSON_Format.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\Employee_WCF_Rest_JSON_Format.dll.config
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\Employee_WCF_Rest_JSON_Format.dll
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\Employee_WCF_Rest_JSON_Format.pdb
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\EntityFramework.dll
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\EntityFramework.SqlServer.dll
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\EntityFramework.xml
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\EntityFramework.SqlServer.xml
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\obj\Debug\Employee_WCF_Rest_JSON_Format.dll
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\obj\Debug\Employee_WCF_Rest_JSON_Format.pdb
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\Employee_WCF_Rest_JSON_Format.dll.config
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\Employee_WCF_Rest_JSON_Format.dll
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\Employee_WCF_Rest_JSON_Format.pdb
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\EntityFramework.dll
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\EntityFramework.SqlServer.dll
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\EntityFramework.xml
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\bin\EntityFramework.SqlServer.xml
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\obj\Debug\Employee_WCF_Rest_JSON_Format.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\obj\Debug\Employee_WCF_Rest_JSON_Format.dll
+C:\Users\NAIDU\Desktop\Services\Rest Full JSON\Employee_WCF_Rest_JSON_Format\Employee_WCF_Rest_JSON_Format\obj\Debug\Employee_WCF_Rest_JSON_Format.pdb

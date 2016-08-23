@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../JS/jquery-2.1.4.min.js"></script>
+
+    <script>
+$(document).ready(function() {
+$("#flip").click(function() {
+$("#panel").slideToggle("slow");
+});
+});
+    </script>
+
+    <style>
+        #panel1{
+           
+            background-color:#12f2dd;
+            border: solid 1px #c3c3c3;
+        }
+
+        #panel {
+            padding: 20px;
+            display: none;
+             background-color:#000000;
+            border: solid 1px #c3c3c3;
+            color:white;
+
+        }
+    </style>
+
+</head>
+<body>
+    
+    <div id="panel">Hello world!</div>
+
+    <div align="right" id="panel1">
+    
+        <a id="flip" href="#"> Click Me </a>
+    
+    </div>
+
+    <h1> Hi Hello How are u </h1>
+</body>
+</html>

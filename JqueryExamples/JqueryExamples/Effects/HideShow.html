@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../JS/jquery-2.1.4.min.js"></script>
+
+    <script>
+    $(document).ready(function () {
+
+        $("#hide").click(function () {
+            $("p").hide();
+        });
+
+        $("#show").click(function () {
+            $("p").show();
+        });
+
+    });
+    </script>
+
+
+    <!--slow hide and show--> 
+
+    <script>
+    $(document).ready(function () {
+        $(".hid").click(function () {
+            $("p").hide(1000);
+        });
+        $(".sho").click(function () {
+            $("p").show(1000);
+        });
+    });
+    </script>
+
+
+
+</head>
+<body>
+    <p>If you click on the "Hide" button, I will disappear.</p>
+
+    
+    <p>This is a paragraph with little content.</p>
+    <p>This is another small paragraph.</p>
+
+
+    <button id="hide">Hide</button>
+    <button id="show">Show</button>
+
+
+    <button class="hid">Slow Hide</button>
+    <button class="sho">Slow Show</button>
+
+
+</body>
+</html>

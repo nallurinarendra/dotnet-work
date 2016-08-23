@@ -1,0 +1,20 @@
+﻿@model Employee_MVC.Models.LoginModelClass
+
+@using (Html.BeginForm("Login", "Home"))
+{
+    
+    <h3>User Name :</h3>
+    
+    @Html.TextBoxFor(a => a.username)
+    
+    <h3> Password : </h3>
+    @Html.TextBoxFor(a => a.password);
+
+    <input id="Submit1" type="submit" value="submit" />
+
+    @ViewBag.result
+    
+   
+
+}
+

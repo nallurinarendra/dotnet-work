@@ -1,0 +1,30 @@
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.dll.config
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.dll
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.pdb
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.dll
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.pdb
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.dll
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.SqlServer.dll
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.xml
+C:\Users\NAIDU\Desktop\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.SqlServer.xml
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.dll.config
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.dll
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.pdb
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.dll
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.SqlServer.dll
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.xml
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.SqlServer.xml
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.csprojResolveAssemblyReference.cache
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.dll
+C:\Users\NAIDU\Desktop\Services\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.pdb
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.dll.config
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.dll
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\Employee_WCF_Rest_XML_Format.pdb
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.dll
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.SqlServer.dll
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.xml
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\bin\EntityFramework.SqlServer.xml
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.csprojResolveAssemblyReference.cache
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.dll
+D:\DotNet\7.WCF\WCF Services\Rest Full XML\Rest Full XML\Employee_WCF_Rest_XML_Format\Employee_WCF_Rest_XML_Format\obj\Debug\Employee_WCF_Rest_XML_Format.pdb

@@ -1,0 +1,45 @@
+﻿@model MVC_MatheMaticalApplication.Models.MatheMaticalModel
+
+@using (Html.BeginForm("Index", "MatheMatical", FormMethod.Post))
+{
+    
+      <h6>First value : </h6>     
+
+    @Html.TextBoxFor(a => a.firstvalue)
+    @Html.ValidationMessageFor(m => m.firstvalue)
+
+    <br />
+
+    <h6>
+        Second value :
+    </h6>
+    @Html.TextBoxFor(b => b.Sedondvalue)
+    @Html.ValidationMessageFor(m => m.Sedondvalue)
+
+    <br />    <br />
+
+
+    <input id="Submit1" type="submit" value="submit" />
+
+    <br />
+
+    <h6> Addition value : @ViewData["Add"]</h6>
+
+    <br />
+
+    <h6> Substraction value : @ViewData["Sub"]</h6>
+
+    <br />
+
+    <h6> Multiplication value : @ViewData["Mul"]</h6>
+
+    <br />
+
+    <h6> Division value : @ViewData["Div"]</h6>
+
+    <br />
+
+    <h6> Remainder value : @ViewData["Rem"]</h6>
+
+
+}
