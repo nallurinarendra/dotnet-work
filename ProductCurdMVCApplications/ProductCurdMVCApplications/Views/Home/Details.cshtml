@@ -1,0 +1,36 @@
+﻿@model ProductCurdMVCApplications.ProductsTable
+
+<div>
+    <h4>ProductsTable</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pno)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pno)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Pno }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

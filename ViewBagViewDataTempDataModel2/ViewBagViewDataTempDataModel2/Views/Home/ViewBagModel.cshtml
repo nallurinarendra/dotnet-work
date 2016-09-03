@@ -1,0 +1,18 @@
+﻿<h1> Display studetns List using ViewBag</h1>
+
+<ul>
+    @foreach (var student in ViewBag.MyStudents)
+    {
+       <li>
+           <h3>
+
+               @student
+           </h3>
+       </li>     
+    }
+
+    <h2>
+        @DateTime.Now.ToString()
+    </h2>
+
+</ul>     

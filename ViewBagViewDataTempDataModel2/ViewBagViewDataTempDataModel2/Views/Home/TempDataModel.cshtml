@@ -1,0 +1,19 @@
+﻿
+<h1> Display studetns List using TempData</h1>
+<ul>
+    @foreach (var student in TempData["MyStudents"] as List<string>)
+    {
+        
+        <li>
+            <h3>
+                @student
+            </h3>
+        </li>
+    }
+
+    <h2>
+        @DateTime.Now.ToString()
+    </h2>
+</ul>
+
+
